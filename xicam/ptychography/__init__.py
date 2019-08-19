@@ -5,8 +5,7 @@ from qtpy.QtCore import *
 from qtpy.QtGui import *
 from qtpy.QtWidgets import *
 
-from xicam.core import msg
-from xicam.gui import threads
+from xicam.core import msg, threads
 import pyqtgraph as pg
 import zmq
 
